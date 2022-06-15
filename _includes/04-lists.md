@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- HELLO
+- This is an unordered list of emojies
+-- 🍌 is a banana
+-- 😹 and this is Feline Fun to tears
