@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Boron Cohen](https://www.kino-teatr.ru/movie/kadr/143647/966425.jpg)
